@@ -30,10 +30,6 @@
 ## 😄 Pronouns:
 "Code is the poetry of logic" —— 喜欢用算法解决现实世界问题
 
-## ⚡ Fun fact:
-- 曾用Latex绘制过《三体》角色关系图（完美支持黑暗森林公式推导！）
-- 能背出圆周率后100位（证明码农也可以很浪漫）
-
 ---
 
 ## 🏆 Publications & Projects
@@ -46,13 +42,5 @@
 
 ---
 
-📊 **Weekly Coding Stats**  
-<!--START_SECTION:waka-->
-```text
-Python       ████████████████░░░░░░░░░   65% 
-PyTorch      ██████████░░░░░░░░░░░░░░░   40%
-LaTeX        █████░░░░░░░░░░░░░░░░░░░░   20%
-Docker       ███░░░░░░░░░░░░░░░░░░░░░░   15%
-```
-<!--END_SECTION:waka-->
+![Metrics](https://metrics.lecoq.io/xzxg001?template=classic&base.activity=0&base.community=0&achievements=1&repositories=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&calendar=false&calendar.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FChangsha&config.octicon=true)
 
