@@ -5,7 +5,7 @@
 
 ## 🔭 I’m currently working on...
 - **Multimodal Representation Learning** 
-- **AI+Health** 方向的前沿研究（论文成果见 [Publications](#-publications)）
+- **AI+Health** 方向的前沿研究
 - 优化多模态情感计算模型（BERT/Emotion2Vec架构，F1达94.93%）
 
 ## 🌱 I’m currently learning...
@@ -37,10 +37,7 @@
 1. **ECG-I2S** | [Frontiers of Computer Science (CCF B)](https://link.springer.com/article/10.1007/s11704-024-40990-x)  
    `ECG图像->心跳周期信号转换算法 | 共同第一作者`
 
-2. **Multivariate Time-Series Diagnosis** | [BIBM 2023 (CCF B)](https://ieeexplore.ieee.org/document/XXXXXXX)  
-   `时序医学数据表征学习框架 | 核心贡献者`
+2. **Multivariate Time-Series Diagnosis**  
+   `时序医学数据表征学习框架 | 贡献者`
 
 ---
-
-![Metrics](https://metrics.lecoq.io/xzxg001?template=classic&base.activity=0&base.community=0&achievements=1&repositories=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&calendar=false&calendar.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FChangsha&config.octicon=true)
-
