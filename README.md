@@ -1,4 +1,3 @@
-```markdown
 # Hi there 👋 I'm xzxg001
 
 **AI Researcher | Multimodal Enthusiast | Medical AI Explorer**  
@@ -40,17 +39,10 @@
 ## 🏆 Publications & Projects
 ### 🎓 Featured Papers
 1. **ECG-I2S** | [Frontiers of Computer Science (CCF B)](https://link.springer.com/article/10.1007/s11704-024-40990-x)  
-   `ECG图像->心跳周期信号转换算法 | 第一作者`
+   `ECG图像->心跳周期信号转换算法 | 共同第一作者`
 
 2. **Multivariate Time-Series Diagnosis** | [BIBM 2023 (CCF B)](https://ieeexplore.ieee.org/document/XXXXXXX)  
    `时序医学数据表征学习框架 | 核心贡献者`
-
-### ⭐ Star Projects
-[![Multimodal-Emotion-Analysis](https://img.shields.io/badge/🔥Multimodal_Emotion-F1_94.93%25-success)](https://github.com/xzxg001/emotion2vec-fusion)  
-融合音频/文本的多模态情感分析系统，创新性设计层次化注意力机制
-
-[![Cloud-Scheduling-Sim](https://img.shields.io/badge/☁️K8s_调度模拟-课程设计-blue)](https://github.com/xzxg001/cloud-scheduling)  
-基于Go语言的分布式任务调度模拟器，支持动态资源分配算法
 
 ---
 
@@ -63,4 +55,4 @@ LaTeX        █████░░░░░░░░░░░░░░░░░�
 Docker       ███░░░░░░░░░░░░░░░░░░░░░░   15%
 ```
 <!--END_SECTION:waka-->
-```
+
