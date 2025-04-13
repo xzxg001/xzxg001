@@ -3,6 +3,7 @@
 **AI Researcher | Multimodal Enthusiast | Medical AI Explorer**  
 湖南大学计算机科学与技术拔尖班大三学生，专注于多模态数据融合与大模型在医疗健康领域的应用
 
+Welcome to visit my blog website![xzxg001's blogs](https://xzxg001.github.io/)
 ## 🔭 I’m currently working on...
 - **Multimodal Representation Learning** 
 - **AI+Health** 方向的前沿研究
@@ -32,12 +33,3 @@
 
 ---
 
-## 🏆 Publications & Projects
-### 🎓 Featured Papers
-1. **ECG-I2S** | [Frontiers of Computer Science (CCF B)](https://link.springer.com/article/10.1007/s11704-024-40990-x)  
-   `ECG图像->心跳周期信号转换算法 | 共同第一作者`
-
-2. **Multivariate Time-Series Diagnosis**  
-   `时序医学数据表征学习框架 | 贡献者`
-
----
