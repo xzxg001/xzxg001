@@ -3,7 +3,7 @@
 **AI Researcher | Multimodal Enthusiast | Medical AI Explorer**  
 湖南大学计算机科学与技术拔尖班大三学生，专注于多模态数据融合与大模型在医疗健康领域的应用
 
-Welcome to visit my blog website![xzxg001's blogs](https://xzxg001.github.io/)
+Welcome to visit [xzxg001's blogs](https://xzxg001.github.io/)!
 ## 🔭 I’m currently working on...
 - **Multimodal Representation Learning** 
 - **AI+Health** 方向的前沿研究
