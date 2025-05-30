@@ -19,7 +19,7 @@ Welcome to visit [xzxg001's blogs](https://xzxg001.github.io/)!
 - 多模态对齐的SOTA方法实践
 
 ## 📫 How to reach me:
-- 📧 **Email**: zoulinzhuang2204@hnu.edu.cn  
+- 📧 **Email**: zoulinzhuang2204athnu.edu.cn  
 - 🌐 **Blog**: [CSDN技术博客](https://blog.csdn.net/xzxg001)
 
 ---
