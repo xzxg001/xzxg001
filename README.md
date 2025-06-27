@@ -1,13 +1,13 @@
 # Hi there 👋 I'm xzxg001
 
 **AI Researcher | Multimodal Enthusiast | Medical AI Explorer**  
-湖南大学计算机科学与技术拔尖班大三学生，专注于多模态数据融合与大模型在医疗健康领域的应用
+湖南大学计算机科学与技术拔尖班大三学生，专注于多模态数据融合与大模型的应用
 
 Welcome to visit [xzxg001's blogs](https://xzxg001.github.io/)!
 ## 🔭 I’m currently working on...
 - **Multimodal Representation Learning** 
 - **AI+Health** 方向的前沿研究
-- 优化多模态情感计算模型（BERT/Emotion2Vec架构，F1达94.93%）
+- 优化多模态情感计算与交互
 
 ## 🌱 I’m currently learning...
 - 医学影像处理与多模态可解释性AI
